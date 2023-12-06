@@ -1,0 +1,8 @@
+INS this 10
+INS this 15
+DEL this
+DEL this
+FIND this
+INS this 21
+FIND this
+QUIT
